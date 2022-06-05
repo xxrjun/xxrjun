@@ -1,12 +1,13 @@
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=xxrjun.xxrjun"> -->
 
-<h1 align="center">
+<h3 align="center">
   <a href="https://git.io/typing-svg">
 <!--     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!;This+is+xxrjun....;Nice+to+meet+you!&center=true&size=30"> -->
     <img src="https://readme-typing-svg.herokuapp.com?font=Charis+SIL&size=30&duration=3000&color=1AACF7&center=true&vCenter=true&lines=Hello%2C+There!;This+is+rjun!;Nice+to+meet+you!">
   </a>
 </h1>
 
+<h2 align="left">👋 About Me</h2>
 <p align="left">
   Hi, I'm rjun, a student in National Centeral University, Taiwan.
   <br>
@@ -16,8 +17,8 @@
   <br>
 </p>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
+<h2 align="left">📊 Github Stats</h2>
+
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
@@ -36,10 +37,9 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=xxrjun&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-<br>
 
 <h4 align="center">
-  <a href="https://github.com/xxrjun?tab=repositories" title="Show Repositories">🔎 Show My Repositories 🔍</a>
+  <a href="https://github.com/xxrjun?tab=repositories" title="Show Repositories">🔎 Show My All Repositories 🔍</a>
 </h4>
 
 <!--
