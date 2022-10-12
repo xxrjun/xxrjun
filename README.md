@@ -60,7 +60,6 @@
 
 
 <!--START_SECTION:waka-->
-
 name: Waka Readme
 
 on:
@@ -77,4 +76,11 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "False"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_LANGUAGE: "True"
+          
 <!--END_SECTION:waka-->
