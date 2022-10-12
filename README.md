@@ -1,4 +1,6 @@
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=xxrjun.xxrjun"> -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=xxrjun.xxrjun">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xxrjun&label=Profile%20views&color=0e75b6&style=flat"
+  alt="xxrjun" /> </p>
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
@@ -10,11 +12,12 @@
 
   <h1 align="center">Hi 👋, I'm rjun</h1>
   <h3 align="center">A student from Taiwan.</h3>
+  <p align="left">🔭 I’m currently studying for a master degree in NCU MIS.</p>
+  <p align="left">💻 I love programming and learn anythings about it.</p>
+  <p align="left">📝 Keep learning C++ and Data Structures.</p>
+  <p align="left">🔫 In adddition to programming, I love FPS games so much.</p>
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxrjun&label=Profile%20views&color=0e75b6&style=flat"
-      alt="xxrjun" /> </p>
-
-  <h3 align="left">Connect with me:</h3>
+  <h2 align="left">Connect with me:</h2>
   <p align="left">
     <a href="https://linkedin.com/in/lean-tzou" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -24,7 +27,7 @@
         alt="xxrjun" height="30" width="40" /></a>
   </p>
 
-  <h3 align="left">Languages and Tools:</h3>
+  <h2 align="left">Languages and Tools:</h2>
   <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
         height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
