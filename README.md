@@ -57,43 +57,6 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 805 Contributions in the Year 2022
- > 
-> 📦 166.2 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 32 Public Repositories 
- > 
-> 🔑 1 Private Repository 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    132 commits    █████░░░░░░░░░░░░░░░░░░░░   21.57% 
-🌆 Daytime    211 commits    ████████░░░░░░░░░░░░░░░░░   34.48% 
-🌃 Evening    209 commits    ████████░░░░░░░░░░░░░░░░░   34.15% 
-🌙 Night      60 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.8%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       120 commits    █████░░░░░░░░░░░░░░░░░░░░   19.61% 
-Tuesday      125 commits    █████░░░░░░░░░░░░░░░░░░░░   20.42% 
-Wednesday    59 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.64% 
-Thursday     67 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.95% 
-Friday       100 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.34% 
-Saturday     97 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.85% 
-Sunday       44 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.19%
-
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -128,12 +91,8 @@ C                        2 repos             ██░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/xxrjun/xxrjun/main/charts/bar_graph.png) 
-
-
- Last Updated on 12/10/2022 13:39:20 UTC
+ Last Updated on 12/10/2022 13:52:09 UTC
 <!--END_SECTION:waka-->
 
 
