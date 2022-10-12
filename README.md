@@ -106,12 +106,18 @@
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=xxrjun&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=xxrjun&show_icons=true&locale=en&theme=ayu-mirage"
     alt="xxrjun"
   />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xxrjun&" alt="xxrjun" /></p>
+<p>
+  &nbsp;<img 
+  align="center" 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=xxrjun&theme=ayu-mirage" 
+  alt="xxrjun" 
+  />
+</p>
 
 <h2 align="left">Coding Stats:</h2>
 
