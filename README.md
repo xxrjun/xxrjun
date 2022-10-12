@@ -1,7 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=xxrjun.xxrjun">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xxrjun&label=Profile%20views&color=0e75b6&style=flat"
-  alt="xxrjun" /> </p>
-
 <h3 align="center">
   <a href="https://git.io/typing-svg">
     <!--     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!;This+is+xxrjun....;Nice+to+meet+you!&center=true&size=30"> -->
@@ -12,10 +8,11 @@
 
   <h1 align="center">Hi 👋, I'm rjun</h1>
   <h3 align="center">A student from Taiwan.</h3>
-  <p align="left">🔭 I’m currently studying for a master degree in NCU MIS.</p>
-  <p align="left">💻 I love programming and learn anythings about it.</p>
-  <p align="left">📝 Keep learning C++ and Data Structures.</p>
-  <p align="left">🔫 In adddition to programming, I love FPS games so much.</p>
+  
+- 🔭 I’m currently studying for a master degree in NCU MIS.
+- 💻 I love programming and learn anythings about it.
+- 📝 Keep learning C++ and Data Structures.
+- 🔫 In adddition to programming, I love FPS games so much.
 
   <h2 align="left">Connect with me:</h2>
   <p align="left">
@@ -59,3 +56,25 @@
       src="https://github-readme-stats.vercel.app/api?username=xxrjun&show_icons=true&locale=en" alt="xxrjun" /></p>
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xxrjun&" alt="xxrjun" /></p>
+
+
+
+<!--START_SECTION:waka-->
+
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+<!--END_SECTION:waka-->
