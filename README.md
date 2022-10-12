@@ -14,17 +14,7 @@
 - 📝 Keep learning C++ and Data Structures.
 - 🔫 In adddition to programming, I love FPS games so much.
 
-  <h2 align="left">Connect with me:</h2>
-  <p align="left">
-    <a href="https://linkedin.com/in/lean-tzou" target="blank"><img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        alt="lean-tzou" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/xxrjun" target="blank"><img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-        alt="xxrjun" height="30" width="40" /></a>
-  </p>
-
-  <h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Languages and Tools:</h2>
   <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
         height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
@@ -52,12 +42,15 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
         alt="react" width="40" height="40" /> </a> </p>
 
+<h2 align="left">GitHub Stats:</h2>
+
   <p>&nbsp;<img align="center"
       src="https://github-readme-stats.vercel.app/api?username=xxrjun&show_icons=true&locale=en" alt="xxrjun" /></p>
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xxrjun&" alt="xxrjun" /></p>
-
-
+  
+  
+<h2 align="left">Coding Stats:</h2>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-459%20hrs%2031%20mins-blue)
@@ -142,3 +135,14 @@ C                        2 repos             ██░░░░░░░░░�
 
  Last Updated on 12/10/2022 13:39:20 UTC
 <!--END_SECTION:waka-->
+
+
+ <h2 align="left">Connect with me:</h2>
+  <p align="left">
+    <a href="https://linkedin.com/in/lean-tzou" target="blank"><img align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+        alt="lean-tzou" height="30" width="40" /></a>
+    <a href="https://www.leetcode.com/xxrjun" target="blank"><img align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+        alt="xxrjun" height="30" width="40" /></a>
+  </p>
