@@ -164,6 +164,11 @@ C                        2 repos             ██░░░░░░░░░�
  Last Updated on 12/10/2022 18:58:37 UTC
 <!--END_SECTION:waka-->
 
+
+<h2 align="left">Connect with me:</h2>
+
+![Metrics](https://metrics.lecoq.io/xxrjun?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FTaipei)
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://linkedin.com/in/lean-tzou"
