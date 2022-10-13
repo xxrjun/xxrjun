@@ -6,12 +6,12 @@
   </a>
   </h1>
 
-<h1 align="center">Hi there👋, I'm rjun</h1>
-<h3 align="center">A student from Taiwan.</h3>
+<h2 align="left">Hi there👋, I'm rjun</h1>
+<p align="left">A student from Taiwan.</p>
 
-- 🔭 I’m currently studying for a master degree in NCU MIS.
+- 🔭 I’m currently studying for a B.S. degree in NCU MIS.
 - 💻 I love programming and learn anythings about it.
-- 📝 Keep learning C++ and Data Structures.
+- 📝 Keep learning C++/Python/Java and Data Structures.
 - 🔫 In adddition to programming, I love FPS games so much.
 
 <h2 align="left">Languages and Tools:</h2>
