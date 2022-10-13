@@ -1,3 +1,4 @@
+# Visits https://github.com/anmol098/waka-readme-stats for details.
 name: Waka Readme
 
 on:
@@ -18,5 +19,7 @@ jobs:
           SHOW_COMMIT: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LINES_OF_CODE: "True"
+          SHOW_LANGUAGE: "True"
