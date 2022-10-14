@@ -2,8 +2,8 @@
 name: Metrics
 on:
   schedule: 
-    # Runs at 3am UTC+8
-    - cron: "0 19 * * *"
+    # Runs at 1:30am UTC+8
+    - cron: "30 17 * * *"
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
