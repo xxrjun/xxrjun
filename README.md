@@ -11,7 +11,8 @@
 
 - 🔭 I’m currently studying for a B.S. degree in NCU MIS.
 - 💻 I love programming and learn anythings about it.
-- 📝 Keep learning C++/Python/Java and Data Structures.
+- 📝 Keep learning C++/Java/Python and Data Structures/Data Science.
+- 🌐 Also love web development, learning JavaScript/React/MongoDB.
 - 🔫 In adddition to programming, I love FPS games so much.
 
 <h2 align="left">Languages and Tools:</h2>
