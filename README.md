@@ -157,7 +157,7 @@ Mac                      9 hrs 35 mins       ████████░░░�
 
 <h2 align="left">Metrics</h2>
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+![Personal 3D Metrics](profile-3d-contrib/profile-night-view.svg)
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
