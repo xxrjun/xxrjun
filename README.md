@@ -123,12 +123,35 @@
 <h2 align="left">Coding Stats:</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-554%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-555%20hrs%2059%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 12/12/2022 16:53:37 UTC
+```text
+⌚︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+JavaScript               11 hrs 10 mins      ██████████████████░░░░░░░   72.66% 
+Markdown                 2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.32% 
+HTML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.61% 
+JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.63% 
+Git Config               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.53%
+
+🔥 Editors: 
+VS Code                  14 hrs 20 mins      ███████████████████████░░   93.28% 
+WebStorm                 1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   6.63% 
+IntelliJ                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+
+💻 Operating System: 
+Windows                  9 hrs 58 mins       ████████████████░░░░░░░░░   64.91% 
+Mac                      5 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   35.09%
+
+```
+
+
+ Last Updated on 13/12/2022 16:50:35 UTC
 <!--END_SECTION:waka-->
 
 
