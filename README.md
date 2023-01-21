@@ -133,18 +133,18 @@
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-JavaScript               0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 20/01/2023 16:48:25 UTC
+ Last Updated on 21/01/2023 16:47:32 UTC
 <!--END_SECTION:waka-->
 
 
