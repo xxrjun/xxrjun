@@ -123,7 +123,7 @@
 <h2 align="left">Coding Stats:</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-647%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-647%20hrs%2046%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
@@ -133,19 +133,19 @@
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   25 mins             ███████████████████████░░   92.27% 
-JavaScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.73%
+Python                   50 mins             ████████████████████████░   95.98% 
+JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.02%
 
 🔥 Editors: 
-VS Code                  27 mins             █████████████████████████   100.0%
+VS Code                  52 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  27 mins             █████████████████████████   100.0%
+Windows                  52 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 03/02/2023 16:49:23 UTC
+ Last Updated on 04/02/2023 16:44:37 UTC
 <!--END_SECTION:waka-->
 
 
