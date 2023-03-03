@@ -157,7 +157,7 @@ Mac                      1 hr 41 mins        █████████░░�
 
 ![Personal 3D Metrics](profile-3d-contrib/profile-night-green.svg)
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Connect with me</h2>
 <p align="left">
   <a href="https://linkedin.com/in/lean-tzou"
     target="blank"><img align="center"
