@@ -15,7 +15,7 @@
 - 🌐 Also love web development, learning JavaScript/React/MongoDB.
 - 🔫 In adddition to programming, I love FPS games so much.
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Languages and Tools</h2>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img
@@ -102,7 +102,7 @@
   </a>
 </p>
 
-<h2 align="left">GitHub Stats:</h2>
+<h2 align="left">GitHub Stats</h2>
 
 <p>
   &nbsp;<img
@@ -120,7 +120,7 @@
   />
 </p>
 
-<h2 align="left">Coding Stats:</h2>
+<h2 align="left">Coding Stats</h2>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-664%20hrs%2059%20mins-blue)
