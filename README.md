@@ -228,9 +228,10 @@ Last Updated on 15/03/2023 16:45:14 UTC
 
 ![Personal 3D Metrics](profile-3d-contrib/profile-night-green.svg)
 
+<!-- Connect with me -->
 <h2 align="left">Connect with me</h2>
 <p align="left">
-  <a href="https://linkedin.com/in/lean-tzou"
+  <a href="https://github.com/xxrjun"
     target="blank"><img align="center"
       src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
       alt="github: lean-tzou"/>
