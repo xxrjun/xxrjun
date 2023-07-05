@@ -194,7 +194,7 @@
 <h2 align="left">Coding Stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-875%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-876%20hrs%2057%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.2%20million%20lines%20of%20code-blue)
 
@@ -203,7 +203,7 @@
 ```text
 Monday                   553 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
 Tuesday                  720 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-Wednesday                417 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Wednesday                418 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
 Thursday                 1103 commits        █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
 Friday                   974 commits         █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
 Saturday                 804 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
@@ -217,17 +217,18 @@ Sunday                   646 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     44 mins             ████████████████░░░░░░░░░   65.40 % 
+ASP.NET                  23 mins             █████████░░░░░░░░░░░░░░░░   34.60 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/07/2023 16:44:50 UTC
+ Last Updated on 05/07/2023 16:45:43 UTC
 <!--END_SECTION:waka-->
 
 <h2 align="left">Metrics</h2>
