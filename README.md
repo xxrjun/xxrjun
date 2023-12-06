@@ -196,6 +196,10 @@
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.3%20million%20lines%20of%20code-blue)
 
+![Code Time](http://img.shields.io/badge/Code%20Time-830%20hrs%2048%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.3%20million%20lines%20of%20code-blue)
+
 
  Last Updated on 06/12/2023 16:42:07 UTC
 <!--END_SECTION:waka-->
