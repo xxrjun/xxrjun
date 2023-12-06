@@ -225,5 +225,5 @@
 </p>
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=xxrjun&label=Profile%20Views&color=0&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=xxrjun&label=Profile%20Views&color=0&icon=0&pretty=true" />
 </a>
