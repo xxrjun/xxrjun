@@ -239,7 +239,7 @@ Windows                  6 hrs 15 mins       ███████░░░░�
 
 <h2 align="left">Metrics</h2>
 
-![Personal 3D Metrics](profile-3d-contrib/profile-night-green.svg)
+![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
 
 <!-- Connect with me -->
 <h2 align="left">Connect with me</h2>
