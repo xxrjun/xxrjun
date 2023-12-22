@@ -193,10 +193,9 @@
 
 <h2 align="left">Coding Stats</h2>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C212%20hrs%2033%20mins-blue)
+<a href="https://wakatime.com/@ba8829a0-ea5f-41ad-93f3-5c03e3a0e908"><img src="https://wakatime.com/badge/user/ba8829a0-ea5f-41ad-93f3-5c03e3a0e908.svg?style=for-the-badge" alt="Total time coded since Jun 17 2021" /></a>
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.1%20million%20lines%20of%20code-blue)
+<!--START_SECTION:waka-->
 
 📅 **I'm Most Productive on Thursday** 
 
@@ -260,3 +259,7 @@ Mac                      3 hrs 36 mins       ██░░░░░░░░░�
       alt="leetcode: xxrjun"/>
   </a>
 </p>
+
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+  <img src="https://komarev.com/ghpvc/?username=xxrjun&style=for-the-badge" />
+</a>
