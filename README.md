@@ -1,14 +1,13 @@
-<h3 align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <!--     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!;This+is+xxrjun....;Nice+to+meet+you!&center=true&size=30"> -->
     <img
       src="https://readme-typing-svg.herokuapp.com?font=Charis+SIL&size=30&duration=3000&color=1AACF7&center=true&vCenter=true&lines=Hello%2C+There!;This+is+rjun!;Nice+to+meet+you!">
   </a>
+  <img src="./banner.png" alt="banner" style="overflow: hidden; height: 300px; width: 100%; object-fit: cover;"/>
+</div>
 
-  </h1>
-  <img src="./banner.png" alt="banner" style="width: 100%; height: 300px; object-fit: cover; overflow: hidden;" />
-
-<h2 align="left">Hi there👋, I'm rjun</h1>
+<br/>
+<h2 align="left">Hi there👋, I'm rjun</h2>
 <p align="left">A student from Taiwan.</p>
 
 - 🔭 I’m currently studying for a B.S. degree in MIS, CSIE @ NCU (double major).
@@ -196,19 +195,14 @@
 <h2 align="left">Coding Stats</h2>
 
 <!--START_SECTION:waka-->
-<<<<<<< HEAD
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C306%20hrs%2042%20mins-blue)
-=======
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C483%20hrs%207%20mins-blue)
->>>>>>> 0a2c43e9041a3d623b764acf289e4f3cbf87eec2
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.1%20million%20lines%20of%20code-blue)
 
 📅 **I'm Most Productive on Tuesday**
 
 ```text
-<<<<<<< HEAD
 Monday                   282 commits         █████░░░░░░░░░░░░░░░░░░░░   19.17 %
 Tuesday                  311 commits         █████░░░░░░░░░░░░░░░░░░░░   21.14 %
 Wednesday                146 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 %
@@ -216,15 +210,6 @@ Thursday                 245 commits         ████░░░░░░░�
 Friday                   201 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 %
 Saturday                 174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
 Sunday                   112 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
-=======
-Monday                   287 commits         █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
-Tuesday                  324 commits         █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-Wednesday                179 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Thursday                 255 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Friday                   225 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Saturday                 182 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-Sunday                   126 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
->>>>>>> 0a2c43e9041a3d623b764acf289e4f3cbf87eec2
 ```
 
 📊 **This Week I Spent My Time On**
@@ -232,23 +217,6 @@ Sunday                   126 commits         ██░░░░░░░░░�
 ```text
 🕑︎ Time Zone: Asia/Taipei
 
-<<<<<<< HEAD
-💬 Programming Languages:
-Assembly                 5 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   30.54 %
-Python                   4 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   22.35 %
-Bash                     3 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   19.30 %
-C++                      1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 %
-JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-
-🔥 Editors:
-VS Code                  18 hrs 58 mins      █████████████████████████   99.99 %
-Intellijidea             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-
-💻 Operating System:
-Linux                    10 hrs 12 mins      █████████████░░░░░░░░░░░░   53.78 %
-Windows                  8 hrs 12 mins       ███████████░░░░░░░░░░░░░░   43.28 %
-Mac                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-=======
 💬 Programming Languages: 
 Markdown                 3 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
 Python                   3 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
@@ -264,15 +232,11 @@ Intellijidea             0 secs              ░░░░░░░░░░░�
 Linux                    10 hrs 40 mins      █████████████████░░░░░░░░   69.71 % 
 Windows                  2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
 Mac                      1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
->>>>>>> 0a2c43e9041a3d623b764acf289e4f3cbf87eec2
 ```
 
 Last Updated on 14/03/2024 16:35:32 UTC
 
-<<<<<<< HEAD
-=======
  Last Updated on 26/04/2024 16:37:08 UTC
->>>>>>> 0a2c43e9041a3d623b764acf289e4f3cbf87eec2
 <!--END_SECTION:waka-->
 
 <h2 align="left">Metrics</h2>
