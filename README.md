@@ -11,11 +11,7 @@
 <h2 align="left">Hi there👋, I'm rjun</h1>
 <p align="left">A student from Taiwan.</p>
 
-<<<<<<< HEAD
 - 🔭 I’m currently studying for a B.S. degree in MIS, CSIE @ NCU (double major).
-=======
-- 🧑‍🎓 I’m currently studying for a bachelor's degree in CSIE and IM at NCU.
->>>>>>> 0a2c43e9041a3d623b764acf289e4f3cbf87eec2
 - 💻 I love programming and learn anythings about it.
 - 🔫 In adddition to programming, I love FPS games so much.
 
