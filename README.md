@@ -3,7 +3,7 @@
     <img
       src="https://readme-typing-svg.herokuapp.com?font=Charis+SIL&size=30&duration=3000&color=1AACF7&center=true&vCenter=true&lines=Hello%2C+There!;This+is+rjun!;Nice+to+meet+you!">
   </a>
-  <img src="./banner.png" alt="banner" style="overflow: hidden; height: 300px; width: 100%; object-fit: cover;"/>
+  <img src="./banner.png" alt="banner"/>
 </div>
 
 <br/>
