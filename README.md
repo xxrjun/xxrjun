@@ -195,7 +195,7 @@
 <h2 align="left">Coding Stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C569%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C567%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.2%20million%20lines%20of%20code-blue)
 
@@ -234,7 +234,7 @@ Windows                  4 hrs 26 mins       ██████░░░░░�
 ```
 
 
- Last Updated on 20/05/2024 14:03:09 UTC
+ Last Updated on 20/05/2024 16:38:10 UTC
 <!--END_SECTION:waka-->
 
 <h2 align="left">Metrics</h2>
