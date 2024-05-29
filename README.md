@@ -13,6 +13,7 @@
 - 🔭 I’m currently studying for a B.S. degree in MIS, CSIE @ NCU (double major).
 - 💻 I love programming and learn anythings about it.
 - 🔫 In adddition to programming, I love FPS games so much.
+- I'm currently learning Machine Learning and Software Engineering.
 
 <h2 align="left">Languages and Tools</h2>
 <p align="left">
