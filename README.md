@@ -6,14 +6,18 @@
   <img src="./banner.png" alt="banner"/>
 </div>
 
+[[CV](https://drive.google.com/file/d/1fEbzBxwGlRerRs_eIa1R-xWq5kQVE7Aw/view?usp=sharing)] | [[Linkedin](https://www.linkedin.com/in/leon-tsou)] | [[Instagram](https://www.instagram.com/r._jun/)]
+
 <br/>
 <h2 align="left">Hi there👋, I'm rjun</h2>
 <p align="left">A student from Taiwan.</p>
+
 
 - 🔭 I’m currently studying for a B.S. degree in MIS, CSIE @ NCU (double major).
 - 💻 I love programming and learn anythings about it.
 - 🔫 In adddition to programming, I love FPS games so much.
 - I'm currently learning Machine Learning and Software Engineering.
+
 
 <h2 align="left">Languages and Tools</h2>
 <p align="left">
@@ -244,14 +248,14 @@ Mac                      1 hr 14 mins        ███░░░░░░░░�
 ![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
 
 <!-- Connect with me -->
-<h2 align="left">Connect with me</h2>
+<!-- <h2 align="left">Connect with me</h2>
 <p align="left">
   <a href="https://github.com/xxrjun"
     target="blank"><img align="center"
       src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
       alt="github: lean-tzou"/>
   </a>
-  <a href="https://linkedin.com/in/lean-tzou"
+  <a href="https://linkedin.com/in/leon-tsou"
     target="blank"><img align="center"
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="linkedin: lean-tzou"/>
@@ -265,4 +269,4 @@ Mac                      1 hr 14 mins        ███░░░░░░░░�
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
   <img src="https://komarev.com/ghpvc/?username=xxrjun&style=for-the-badge" />
-</a>
+</a> -->
