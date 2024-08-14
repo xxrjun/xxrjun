@@ -6,7 +6,8 @@
   <img src="./banner.png" alt="banner"/>
 </div>
 
-[[CV](https://drive.google.com/file/d/1fEbzBxwGlRerRs_eIa1R-xWq5kQVE7Aw/view?usp=sharing)] | [[Linkedin](https://www.linkedin.com/in/leon-tsou)] | [[Instagram](https://www.instagram.com/r._jun/)]
+[[CV](https://drive.google.com/file/d/1fEbzBxwGlRerRs_eIa1R-xWq5kQVE7Aw/view?usp=sharing)] | [[Linkedin](https://www.linkedin.com/in/leon-tsou)] | [[Instagram](https://www.instagram.com/r._jun/)] | [[Youtube](https://www.youtube.com/@xxrjun)]
+
 
 <br/>
 <h2 align="left">Hi there👋, I'm rjun</h2>
@@ -196,50 +197,13 @@
   alt="xxrjun" 
   />
 </p>
-
+<!-- 
 <h2 align="left">Coding Stats</h2>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C601%20hrs%2031%20mins-blue)
+<!-- ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C601%20hrs%2031%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.8%20million%20lines%20of%20code-blue) -->
 
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   320 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-Tuesday                  343 commits         █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-Wednesday                208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-Thursday                 304 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-Friday                   264 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-Saturday                 197 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-Sunday                   158 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-Python                   3 hrs 36 mins       █████████████░░░░░░░░░░░░   50.06 % 
-Bash                     2 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   31.87 % 
-YAML                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-
-🔥 Editors: 
-VS Code                  7 hrs 12 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    4 hrs 18 mins       ███████████████░░░░░░░░░░   59.78 % 
-Windows                  2 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   40.22 % 
-```
-
-
- Last Updated on 04/07/2024 16:38:10 UTC
-<!--END_SECTION:waka-->
 
 <h2 align="left">Metrics</h2>
 
