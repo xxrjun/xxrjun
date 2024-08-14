@@ -1,24 +1,25 @@
-<div align="center">
+<div style="text-align: center;">
   <a href="https://git.io/typing-svg">
     <img
       src="https://readme-typing-svg.herokuapp.com?font=Charis+SIL&size=30&duration=3000&color=1AACF7&center=true&vCenter=true&lines=Hello%2C+There!;This+is+rjun!;Nice+to+meet+you!">
   </a>
   <img src="./banner.png" alt="banner"/>
+  <p align="center">
+    <a href="https://drive.google.com/file/d/1fEbzBxwGlRerRs_eIa1R-xWq5kQVE7Aw/view?usp=sharing">CV</a> | 
+    <a href="https://www.linkedin.com/in/leon-tsou">Linkedin</a> | 
+    <a href="https://www.instagram.com/r._jun/">Instagram</a> | 
+    <a href="https://www.youtube.com/@xxrjun">Youtube</a>
+  </p>
 </div>
-
-[[CV](https://drive.google.com/file/d/1fEbzBxwGlRerRs_eIa1R-xWq5kQVE7Aw/view?usp=sharing)] | [[Linkedin](https://www.linkedin.com/in/leon-tsou)] | [[Instagram](https://www.instagram.com/r._jun/)] | [[Youtube](https://www.youtube.com/@xxrjun)]
-
 
 <br/>
 <h2 align="left">Hi there👋, I'm rjun</h2>
 <p align="left">A student from Taiwan.</p>
 
-
 - 🔭 I’m currently studying for a B.S. degree in MIS, CSIE @ NCU (double major).
 - 💻 I love programming and learn anythings about it.
 - 🔫 In adddition to programming, I love FPS games so much.
 - I'm currently learning Machine Learning and Software Engineering.
-
 
 <h2 align="left">Languages and Tools</h2>
 <p align="left">
@@ -203,7 +204,6 @@
 <!-- ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C601%20hrs%2031%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.8%20million%20lines%20of%20code-blue) -->
-
 
 <h2 align="left">Metrics</h2>
 
