@@ -16,12 +16,12 @@
 <h2 align="left">Hi there👋, I'm rjun</h2>
 <p align="left">A student from Taiwan.</p>
 
-- 🔭 I’m currently studying for a B.S. degree in MIS, CSIE @ NCU (double major).
+- 🔭 I’m currently pursuing a B.S. degree in IM and CSIE (double major) at NCU. I will begin my M.S. degree in Data Science at NTU in September 2025..
 - 💻 I love programming and learn anythings about it.
 - 🔫 In adddition to programming, I love FPS games so much.
 - I'm currently learning Machine Learning and Software Engineering.
 
-<h2 align="left">Languages and Tools</h2>
+<!-- <h2 align="left">Languages and Tools</h2>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img
@@ -131,7 +131,7 @@
 </p>
 
 <!-- Recently Learning -->
-<h3 align="left">Recently Learning</h3>
+<!-- <h3 align="left">Recently Learning</h3>
   <a href="https://nextjs.org" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
@@ -173,13 +173,13 @@
       src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
       alt="linux"
     />
-  </a> 
+  </a>
   <a href="https://playvalorant.com" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white"
       alt="valorant"
     />
-  </a>
+  </a> -->
 
 <h2 align="left">GitHub Stats</h2>
 
@@ -191,14 +191,14 @@
   />
 </p>
 
-<p>
-  &nbsp;<img 
-  align="center" 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=xxrjun&theme=ayu-mirage" 
-  alt="xxrjun" 
+<!-- <p>
+  &nbsp;<img
+  align="center"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=xxrjun&theme=ayu-mirage"
+  alt="xxrjun"
   />
-</p>
-<!-- 
+</p> -->
+<!--
 <h2 align="left">Coding Stats</h2>
 
 <!-- ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C601%20hrs%2031%20mins-blue)
