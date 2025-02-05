@@ -1,14 +1,16 @@
-<div style="text-align: center;">
+<div style="text-align: center;" align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Charis+SIL&size=30&duration=3000&color=1AACF7&center=true&vCenter=true&lines=Hello%2C+There!;This+is+rjun!;Nice+to+meet+you!">
+        src="https://readme-typing-svg.herokuapp.com?font=Charis+SIL&size=30&duration=3000&color=1AACF7&center=true&vCenter=true&lines=Hello%2C+There!;This+is+rjun!;Nice+to+meet+you!"
+        style="display: block; margin: auto;">
   </a>
-  <img src="./banner.png" alt="banner"/>
+  <img src="./banner.png" alt="banner" style="display: block; margin: auto;">
   <p align="center">
     <a href="https://drive.google.com/file/d/1fEbzBxwGlRerRs_eIa1R-xWq5kQVE7Aw/view?usp=sharing">CV</a> | 
     <a href="https://www.linkedin.com/in/leon-tsou">Linkedin</a> | 
     <a href="https://www.instagram.com/r._jun/">Instagram</a> | 
-    <a href="https://www.youtube.com/@xxrjun">Youtube</a>
+    <a href="https://www.youtube.com/@xxrjun">Youtube</a> |
+    <a href="https://hackmd.io/@xxrjun/lucky">2024 推甄心得</a>
   </p>
 </div>
 
@@ -16,10 +18,10 @@
 <h2 align="left">Hi there👋, I'm rjun</h2>
 <p align="left">A student from Taiwan.</p>
 
-- 🔭 I’m currently pursuing a B.S. degree in IM and CSIE (double major) at NCU. I will begin my M.S. degree in Data Science at NTU in September 2025..
-- 💻 I love programming and learn anythings about it.
-- 🔫 In adddition to programming, I love FPS games so much.
-- I'm currently learning Machine Learning and Software Engineering.
+- 🔭 I’m currently pursuing a **B.S. degree in IM and CSIE (double major) at [NCU](https://www.ncu.edu.tw/en/index.php)**. I will begin my **M.S. degree in Data Science at [NTU](https://www.ntu.edu.tw/english/)** in September 2025..
+- 💻 I love programming and continuously exploring new technologies.
+- 🔫 Besides coding, I am an avid **FPS** gamer.
+- 🚀 My current focus is on **Parallel Computing** and **Performance Analysis**.
 
 <!-- <h2 align="left">Languages and Tools</h2>
 <p align="left">
@@ -232,3 +234,5 @@
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
   <img src="https://komarev.com/ghpvc/?username=xxrjun&style=for-the-badge" />
 </a> -->
+
+\*\*
