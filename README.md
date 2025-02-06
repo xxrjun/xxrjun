@@ -1,16 +1,16 @@
 <div style="text-align: center;" align="center">
-  <a href="https://git.io/typing-svg">
+<!--   <a href="https://git.io/typing-svg">
     <img
         src="https://readme-typing-svg.herokuapp.com?font=Charis+SIL&size=30&duration=3000&color=1AACF7&center=true&vCenter=true&lines=Hello%2C+There!;This+is+rjun!;Nice+to+meet+you!"
         style="display: block; margin: auto;">
-  </a>
+  </a> -->
   <img src="./banner.png" alt="banner" style="display: block; margin: auto;">
   <p align="center">
-    <a href="https://drive.google.com/file/d/1fEbzBxwGlRerRs_eIa1R-xWq5kQVE7Aw/view?usp=sharing">CV</a> | 
-    <a href="https://www.linkedin.com/in/leon-tsou">Linkedin</a> | 
-    <a href="https://www.instagram.com/r._jun/">Instagram</a> | 
-    <a href="https://www.youtube.com/@xxrjun">Youtube</a> |
-    <a href="https://hackmd.io/@xxrjun/lucky">2024 推甄心得</a>
+    <a href="https://drive.google.com/file/d/1fEbzBxwGlRerRs_eIa1R-xWq5kQVE7Aw/view?usp=sharing"><b>CV</b></a> | 
+    <a href="https://www.linkedin.com/in/leon-tsou"><b>Linkedin</b></a> | 
+    <a href="https://www.instagram.com/r._jun/"><b>Instagram</b></a> | 
+    <a href="https://www.youtube.com/@xxrjun"><b>Youtube</b></a> |
+    <a href="https://hackmd.io/@xxrjun/lucky"><b>2024 推甄心得</b></a>
   </p>
 </div>
 
