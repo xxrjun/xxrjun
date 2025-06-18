@@ -6,8 +6,8 @@
   </a> -->
   <img src="./banner.png" alt="banner" style="display: block; margin: auto;">
   <p align="center">
-    <a href="https://drive.google.com/file/d/1fEbzBxwGlRerRs_eIa1R-xWq5kQVE7Aw/view?usp=sharing"><b>CV</b></a> | 
-    <a href="https://www.linkedin.com/in/leon-tsou"><b>Linkedin</b></a> | 
+    <a href="https://drive.google.com/file/d/1NQdGTps6goFpP-PVkNbMsQUPFwMj-Jzm/view?usp=sharing"><b>CV</b></a> | 
+    <a href="https://www.linkedin.com/in/leon-tsou" target="_blank"><b>Linkedin</b></a> | 
     <a href="https://www.instagram.com/r._jun/"><b>Instagram</b></a> | 
     <a href="https://www.youtube.com/@xxrjun"><b>Youtube</b></a> |
     <a href="https://hackmd.io/@xxrjun/lucky"><b>2024 推甄心得</b></a>
@@ -235,4 +235,5 @@
   <img src="https://komarev.com/ghpvc/?username=xxrjun&style=for-the-badge" />
 </a> -->
 
-\*\*
+
+![](https://komarev.com/ghpvc/?username=xxrjun&style=for-the-badge)
