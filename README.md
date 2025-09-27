@@ -7,6 +7,7 @@
   <img src="./banner.png" alt="banner" style="display: block; margin: auto;">
   <p align="center">
     <a href="https://drive.google.com/file/d/1InzcXnmEsOUzaEbewfcTx-VVATQCiAfD/view?usp=sharing"><b>CV</b></a> | 
+    <a href="https://huggingface.co/xxrjun"><b>Hugging Face</b></a> | 
     <a href="https://www.linkedin.com/in/leon-tsou" target="_blank"><b>Linkedin</b></a> | 
     <a href="https://www.instagram.com/r._jun/"><b>Instagram</b></a> | 
     <a href="https://www.youtube.com/@xxrjun"><b>Youtube</b></a> |
@@ -19,7 +20,7 @@
 <p align="left">A student from Taiwan.</p>
 
 
-- I will begin my **M.S. degree in Data Science at [NTU](https://www.ntu.edu.tw/english/)** in September 2025.
+- I am pursuing my **M.S. degree in Data Science at [NTU](https://www.ntu.edu.tw/english/)**.
 - Sep. 2020 ‐ Jun. 2025 Double Major in Computer Science and Information Engineering (B.S.) & Information Managment (B.B.A.) at [NCU](https://www.ncu.edu.tw/en/index.php).
 - I love programming and continuously exploring new technologies.
 - Besides coding, I am an avid **FPS** gamer.
