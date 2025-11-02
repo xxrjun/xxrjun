@@ -6,7 +6,7 @@
   </a> -->
   <img src="./banner.png" alt="banner" style="display: block; margin: auto;">
   <p align="center">
-    <a href="https://drive.google.com/file/d/1InzcXnmEsOUzaEbewfcTx-VVATQCiAfD/view?usp=sharing"><b>CV</b></a> | 
+    <a href="https://drive.google.com/file/d/136nRaYDs9XpHou_IfRYze4LWgjufDddj/view?usp=sharing"><b>CV</b></a> | 
     <a href="https://huggingface.co/xxrjun"><b>Hugging Face</b></a> | 
     <a href="https://www.linkedin.com/in/leon-tsou" target="_blank"><b>Linkedin</b></a> | 
     <a href="https://www.instagram.com/r._jun/"><b>Instagram</b></a> | 
